@@ -1,0 +1,2 @@
+# questions
+simple FAQ display
